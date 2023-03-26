@@ -1,0 +1,7 @@
+POST https://641cf247b556e431a878fb78.mockapi.io/produto
+Content-Type: application/json
+
+  {"aluno": "felipe valentim", "imagem": "https://s2.glbimg.com/rivw1t6Al9BsfodK1AY186hiF9E=/0x0:1080x608/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2022/0/1/x0YvBkTTaAlyCYfAEKSg/capa-materia-gshow-2022-01-25t132009.209.png",
+    "titulo": "Torta de limao", "descrição": "Torta de limão é uma torta cozida no forno e recheada com um creme a base de limã Sua origem é incerta, embora existam alguns relatos que indicam que tem origem no sul dos Estados Unidos ou na França."}
+
+   

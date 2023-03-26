@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    background-color: #d07caa;
+}
+
+header{
+    position: relative;
+    top: 0;
+    height: auto;
+    width: 100%;
+} 
+nav{ 
+    position: fixed;
+    top: 0;
+    height: 100%;
+    z-index: 1;
+}
+section{
+    margin-top: 30px;
+}
+h1{
+    color: #a04d7b;
+    text-shadow: 8px 8px 8px #801b52;
+    margin-top: 200px;
+    margin-left: 550px;
+    text-align: center;
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+b{
+    color: rgb(133,24,4);
+}
+p{
+    font-size: 25px;
+    text-shadow: 3px 3px 3px #801b52;
+}
+.nav-recipiente1{
+    height: 1900px
+}
+#logo{
+    height: 750px;
+    width: 650px;
+    border-radius: 6px;
+}
+.recipiente2{
+    height: 200px;
+    width: 800px;
+    margin-left: 900px;
+}
+.caixa{
+    text-align: center;
+    margin-left: 580px;
+}
+.id{
+    font-size: 15px;
+    text-align: center;
+    margin-left: 580px;
+    text-shadow: 3px 3px 3px #801b52;
+}
+.button-as-link{
+    height: 45px;
+    width: 110px;
+    font-size: 18px;
+    background-color: rgb(133,24,4);
+    opacity: 0.4;
+    border-radius: 5px;
+    color: white;
+
+}
+.button-as-link :hover{
+    opacity: 1.0;
+    color: white
+
+}
+.container {
+    margin-left: 800px;
+    margin-top: 10px;
+}
